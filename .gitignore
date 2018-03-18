@@ -1,0 +1,9 @@
+venv/*
+data/*
+
+# idea
+.idea/*
+vcs.xml
+misc.xml
+*.iml
+modules.xml
