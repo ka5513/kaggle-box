@@ -1,5 +1,7 @@
 venv/*
 data/*
+events/*
+output/*
 
 # idea
 .idea/*
